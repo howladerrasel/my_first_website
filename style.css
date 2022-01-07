@@ -1,0 +1,77 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+   font-size: 50px;
+   text-align: center;
+}
+.orange-color{
+color: orange;
+}
+.flexible-container{
+    display:flex;
+    margin-bottom: 7%;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    box-shadow: grey;
+  
+}
+.half-width image{
+    width:100%
+}
+.link-button{
+text-decoration: none;
+background-color: rgb(191, 205, 63);
+padding: 10px 40px;
+border-radius: 7px;
+}
+.widthboder{
+    border-left: 2px solid gray;
+    height: 200px;
+    margin-right: -30px;
+    
+}
+.experience-item{
+width: 40%;
+margin-left: 2%;
+margin-right: 2%;
+padding-left: 10%;
+border-radius: 10px;
+box-shadow: 10px 10px 40px grey;
+background-color: rgb(160, 128, 144);
+}
+
+.experience-item2{
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 10%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px grey;
+    background-color: rgb(138, 105, 255);
+    }
+    .experience-item3{
+        width: 40%;
+        margin-left: 2%;
+        margin-right: 2%;
+        padding-left: 10%;
+        border-radius: 10px;
+        box-shadow: 10px 10px 40px grey;
+        background-color: hotpink;
+        }
+
+
+.footer {
+    height: 134px;
+    width: 100%;
+    background: rgb(0, 0, 0);
+    text-align: center;
+}
+.footer h2{
+    color: wheat;
+}
+.footer p{
+    color: wheat;
+}
